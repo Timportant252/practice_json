@@ -1,0 +1,8 @@
+{
+    "a_schema":{
+        "table_names" : ["a_1_table","a_2_table","a_3_table"]
+    },
+    "b_schema":{
+        "table_names" : ["b_1_table", "b_2_table"]
+    }
+}
